@@ -3,7 +3,7 @@
 <h1>bamboo2651</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=プログラミング勉強中;Babylon.js+%2F+Three.js+%2F+GSAP;Frontend+Engineer+%7C+HAL+Tokyo+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=I+will+continue+to+work+hard+at+studying+programming.;Babylon.js+%2F+Three.js+%2F+GSAP;Frontend+Engineer+%7C+HAL+Tokyo+Student" alt="Typing SVG" />
 </p>
 
 </div>
