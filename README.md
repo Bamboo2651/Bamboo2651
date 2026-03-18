@@ -63,13 +63,13 @@ const bamboo2651 = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bamboo2651&show_icons=true&hide_border=true&bg_color=00000000&title_color=00b4d8&icon_color=00b4d8&text_color=FF3E0A&locale=ja" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamboo2651&layout=compact&hide_border=true&bg_color=00000000&title_color=00b4d8&text_color=FF3E0A&locale=ja" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bamboo2651&show_icons=true&hide_border=true&bg_color=00000000&title_color=00b4d8&icon_color=00b4d8&text_color=00b4d8&locale=ja" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamboo2651&layout=compact&hide_border=true&bg_color=00000000&title_color=00b4d8&text_color=00b4d8&locale=ja" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bamboo2651&hide_border=true&background=00000000&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&dates=888888&sideLabels=888888&sideNums=00b4d8&currStreakNum=00b4d8&locale=ja" width="480"/>
+<img src="https://streak-stats.demolab.com?user=bamboo2651&hide_border=true&background=00000000&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&dates=00b4d8&sideLabels=00b4d8&sideNums=00b4d8&currStreakNum=00b4d8&locale=ja" width="480"/>
 
 </div>
