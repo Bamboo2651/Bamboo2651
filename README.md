@@ -18,8 +18,7 @@ const bamboo2651 = {
   status:   "IT専門学校 在学中 🎓",
   focus:    ["3D Web", "Frontend", "Backend"],
   stack:    ["Babylon.js", "Three.js", "GSAP", "Blender"],
-  learning: "Flutter & Dart 📱",
-  motto:    "ITのすべてを学びたい。",
+  learning: "three.js",
 };
 ```
 
