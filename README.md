@@ -38,6 +38,8 @@ const bamboo2651 = {
 ![HTML5](https://img.shields.io/badge/HTML5-C0392B?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1A6DAA?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-C8A900?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2B6FAE?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-1A9AC8?style=flat-square&logo=react&logoColor=white)
 
 **Mobile**
 
@@ -74,4 +76,8 @@ const bamboo2651 = {
 
 <img src="https://streak-stats.demolab.com?user=bamboo2651&hide_border=true&background=00000000&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&dates=00b4d8&sideLabels=00b4d8&sideNums=00b4d8&currStreakNum=00b4d8&locale=ja" width="480"/>
 
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bamboo2651&bg_color=00000000&color=00b4d8&line=00b4d8&point=ffffff&hide_border=true&area=true" width="100%"/>
 </div>
